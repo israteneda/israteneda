@@ -1,17 +1,12 @@
-### Software writer 💻
+### Frontend Developer 💻
 
-> There are no easy answers. There is no such
-  thing as a best solution, be it a tool, a language, or an operating system.
-  There can only be systems that are more appropriate in a particular set of
-  circumstances.
+[![Personal website](https://img.shields.io/website?style=flat-square&up_message=https%3A%2F%2Fisrateneda.com%2F&url=https%3A%2F%2Fisrateneda.com)](https://israteneda.com/) [![Stackoverflow questions](https://img.shields.io/stackexchange/es.stackoverflow.com/r/93304?style=flat-square)](https://es.stackoverflow.com/users/93304/israteneda)  [![Linkdin](https://img.shields.io/badge/linkedin-israteneda-blue)](https://www.linkedin.com/in/israteneda/) [![Youtube success video](https://img.shields.io/youtube/views/DYpOsgBdN6k?style=social)](https://www.youtube.com/watch?v=DYpOsgBdN6k)
+  
+![Israel Teneda's github stats](https://github-readme-stats.vercel.app/api?username=israteneda&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 Sharing knowledge in my [YouTube](https://www.youtube.com/channel/UCwebj3UxpFP1hCgje16QxiQ?view_as=subscriber)/[Blog](https://israteneda.com/).
 
 I've worked with these technologies:
 - HTML/CSS/JavaScript
-- Laravel/Flask/Spring Boot
+- React/Gatsby
 - Git/GitHub/GitLab/Google Cloud
-- Android/Flutter
-- Java/Python
-- Unity 3D
-
