@@ -7,5 +7,3 @@ I'm a software developer with 3 years of experience, passionate about learning, 
 Furthermore, I like to contribute with the growth of the software community, contributing to open source and answer questions on Stack Overflow. Constantly I'm learning new agile methodologies, good practices for coding or soft skills to improve myself as a professional.
 
 ![Israel Teneda's github stats](https://github-readme-stats.vercel.app/api?username=israteneda&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-Contributor of [JavaScript Ecuador](https://github.com/javascriptecuador/web), [Python Ecuador](https://github.com/pythonecuador/pythonecuador.github.io) and [Verónica Open Api](https://github.com/rolandopalermo/veronica-open-api)
