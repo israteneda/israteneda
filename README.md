@@ -5,5 +5,3 @@
 I'm a software developer with 3 years of experience. I'm passionate about learning and sharing knowledge with the engineering community through my [personal blog](https://israteneda.com/posts/) and my [YouTube channel](https://www.youtube.com/israteneda). Furthermore, I have skills in a broad variety of technologies, methodologies, platforms and programming languages like Python, Docker, Git, TDD, QA, among others.
 
 Moreover, I like to contribute with the growth of the software community, contributing to open source and answer questions on Stack Overflow. Constantly I'm learning new agile methodologies, good practices for coding or soft skills to improve myself as a professional.
-
-![Israel Teneda's github stats](https://github-readme-stats.vercel.app/api?username=israteneda&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
